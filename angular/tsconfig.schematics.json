@@ -11,7 +11,7 @@
     "sourceMap": false,
     "pretty": true,
     "rootDir": "src/schematics",
-    "target": "es2015",
+    "target": "es2017",
     "outDir": "dist/schematics"
   },
   "exclude": ["node_modules"],
