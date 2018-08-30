@@ -15,7 +15,7 @@
     "outDir": "dist",
     "removeComments": false,
     "sourceMap": true,
-    "target": "es2015"
+    "target": "es5"
   },
   "include": [
     "src/**/*.ts"
